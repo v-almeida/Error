@@ -19,7 +19,7 @@ public class Exercicio07 {
         } else {
             System.out.println("Este número não está entre 100 e 200.");
         }
-
+        scanner.close();
     }
 
 }
