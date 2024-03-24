@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Exercicio09 {
 
-    public static void main(String[] args) {
+    public static void executar() {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite um Número: ");
@@ -23,6 +23,7 @@ public class Exercicio09 {
             System.out.println("Os Números são diferentes, sendo que " + B + " é maior que " + A);
 
         }
+        scanner.close();
 
     }
 

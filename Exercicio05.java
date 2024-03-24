@@ -5,7 +5,7 @@ e outra com os valores trocados.  */
 
 public class Exercicio05 {
 
-    public static void main(String[] args) {
+    public static void executar() {
 
         int A = 5;
         int B = 10;

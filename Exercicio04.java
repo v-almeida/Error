@@ -3,7 +3,7 @@ multiplicação e a divisão dos números lidos.  */
 
 public class Exercicio04 {
 
-    public static void main(String[] args) {
+    public static void executar() {
 
         int num = 10;
         int num2 = 2;

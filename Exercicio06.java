@@ -7,7 +7,7 @@ F = (9 * C + 160) / 5
 
 public class Exercicio06 {
 
-    public static void main(String[] args) {
+    public static void executar() {
 
         double celcius = 19;
         System.out.println("A temperatura de hoje em cwb: " + celcius + "ºC");

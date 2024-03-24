@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Exercicio01 {
 
-    public static void main(String[] args) {
+    public static void executar() {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite um número: ");
