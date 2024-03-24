@@ -8,6 +8,7 @@ public class Exercicio08 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Digite um Número: ");
         int num = scanner.nextInt();
 
