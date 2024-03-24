@@ -21,6 +21,6 @@ public class Exercicio03 {
         } else {
             System.out.println("A sequência de números informada é inválida.");
         }
-
+        scanner.close();
     }
 }
